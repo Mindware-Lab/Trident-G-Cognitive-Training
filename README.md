@@ -286,120 +286,127 @@ Type-2 learning installs a portable operator. Type-1 tuning makes it cheap and r
 
 ---
 
+**Core idea:** Keep cognition in the Ψ-band corridor \( \mathcal{C}_{\Psi} \), run **right-sized discriminating tests** (matched to your rigour budget), and convert genuine improvements into **portable mindware** (far transfer) rather than wrapper-locked hacks (thin automation).
+
 ## 1) Pick the scale + success unit
-Micro / meso / macro: next move, next iteration, next milestone.  
-Define the **smallest acceptable win** for this loop: the smallest observable \(S_0 \rightarrow S_1\) change that either  
-(a) creates value, or (b) reduces uncertainty enough to change the plan, within this timescale.
+Choose the loop timescale:
+- **Micro / meso / macro:** next move, next iteration, next milestone.
 
----
+Define the **smallest acceptable win** for *this* loop:
+- the smallest observable change \( S_0 \rightarrow S_1 \) that either  
+  (a) creates value, or  
+  (b) reduces uncertainty enough to change the plan,  
+  **within this timescale**.
 
-## 2) State gate: corridor + re-entry \(\big(x = F - F^{\star}\big)\)
-Get into a trainable state.  
-- Too hot: narrow, simplify, remove noise.  
-- Too cold: sharpen stakes, add structure.  
+## 2) State gate: corridor + re-entry (manage \( x = F - F^{\star} \))
+Get into a trainable state.
+- **Too hot:** narrow, simplify, remove noise.
+- **Too cold:** sharpen stakes, add structure.
+- **Meta lever \( \eta \):** make re-entry cheap (reset ritual, chunking, checklist, environment).
 
-Meta lever \(\eta\): make re-entry cheap (reset ritual, chunking, checklist, environment).  
-Two failure modes: **sticky under-updating** (rigid repetition) vs **noisy variance** (unstable switching).
+Two failure modes to watch:
+- **Sticky under-updating:** rigid repetition, grinding a rut.
+- **Noisy variance:** unstable switching, lots of motion, little consolidation.
 
----
-
-## 3) Salience gate: set rigour budget
-How much uncertainty is worth reducing before you act?  
-This prevents both over-analysis and rushing on vibes.
-
----
+## 3) Salience gate: set the rigour budget
+Decide how much uncertainty is worth reducing **before** you act.
+- Your rigour budget is your **allowed spend** in time, risk, effort, and cognitive load.
+- It prevents both over-analysis **and** rushing on vibes.
 
 ## 4) Define the problem statement (v0) — what to win (provisional)
-Write one line: “We are at \(S_0\) and want \(S_1\), under constraints \(C\), optimising for \(U\).”  
-This sets the objective + constraints, **not yet** the transfer target.
+One line:
+> “We are at \( S_0 \) and want \( S_1 \), under constraints \( C \), optimising for \( U \).”
 
----
+This sets objective + constraints (not yet the transfer target).
 
-## 5) Propose a provisional transfer tether \(Y_0\) — what to learn so it travels (provisional)
-Pick the likely invariant/operator to generalise (e.g., EU+VoI, crux-test first, claim→evidence→warrant, bottleneck-first).  
-Rule: \(Y\) can change if portability fails \(\big(Y_0 \rightarrow Y_1\big)\).  
-**Problem statement = what to win. Tether = what to learn so wins travel.**
+## 5) Propose a provisional transfer tether \( Y_0 \) — what to learn so it travels (provisional)
+Pick the likely invariant mindware you want to generalise (examples: expected-utility + value-of-information, “test the crux first”, claim→evidence→warrant, bottleneck-first).
 
----
+Rule: the tether can change if portability fails:
+- \( Y_0 \rightarrow Y_1 \)
 
-## 6) Build the relational problem space (map v0)
-Name the structure you’re operating in:  
-- Variables: what matters and can change  
-- Constraints: hard vs soft  
-- Operators: allowable moves that change the state  
-- Trade-off: what cannot be optimised simultaneously  
-- Relations: cause→effect, evidence→inference, goal→subgoal→operator, incentive→behaviour, etc.
+**Problem statement = what to win.**  
+**Tether = what to learn so wins travel.**
 
-**Expert frame**: Use an expert schema as a “prior map”: start from a recognised framework (checklist/model) to seed variables, constraints, operators, and likely crux tests, then revise by evidence.
+## 6) Build the relational problem space (map v0), using an expert prior
+Name the structure you’re operating in:
+- **Variables:** what matters and can change.
+- **Constraints:** hard vs soft.
+- **Mindware moves (operators):** allowable actions that change state.
+- **Trade-off:** what cannot be optimised simultaneously.
+- **Relations:** cause→effect, evidence→inference, goal→subgoal→operator, incentive→behaviour, etc.
 
----
+**Use an expert schema as a “prior map”:**  
+Start from a recognised framework (a model/checklist/strategy used by experts) to seed variables, constraints, likely operators, and likely crux tests. Then revise the map based on evidence from your tests.  
+*This is “borrowed structure first, personalised structure second”.*
 
-## 7) Meta-tune before grinding \(\big(\chi, \lambda, \Lambda\big)\) + protect \(\eta\)
-- Coherence \(\chi\): remove contradictions, define terms, align goal ↔ plan  
-- Niche coupling \(\lambda\): immediate context design (tools, cues, incentives today). Redesign the niche if it’s producing wrapper-locked behaviour.  
-- Macro niche effects \(\Lambda\): slow structural niche (role design, recurring meetings, KPI structure, long-run incentives).  
-- Meta-efficacy \(\eta\): ensure you can recover quickly if you wobble  
+## 7) Meta-tune before grinding (shape the landscape: \( \chi, \lambda, \Lambda \) + protect \( \eta \))
+- **Coherence \( \chi \):** remove contradictions, define terms, align goal ↔ plan
+- **Niche coupling \( \lambda \):** immediate context design (tools, cues, incentives today). Redesign the niche if it’s producing wrapper-locked behaviour.
+- **Macro niche effects \( \Lambda \):** slow structural niche (role design, recurring meetings, KPI structure, long-run incentives).
+- **Meta-efficacy \( \eta \):** ensure you can recover quickly if you wobble.
 
-**Notation:** use \(\lambda\) for niche coupling, \(\Lambda\) for macro niche effects, and \(\tau\) for tether strength to \(Y\).
+Notation:
+- \( \lambda \) = niche coupling (local)
+- \( \Lambda \) = macro niche effects (structural)
+- \( \tau \) = tether strength to \( Y \) (how tightly your actions express the portable mindware)
 
----
-
-## 8) Choose stance + mode (set \(\xi\) and \(\delta\))
-Decide: Explore (widen/search) or Exploit (converge/implement).  
+## 8) Choose stance + mode (set \( \xi \) and \( \delta \))
+Decide: **Explore** (widen/search) or **Exploit** (converge/implement).  
 Set a time/effort budget so you don’t drift out of band.
 
----
-
 ## 9) Generate candidates in the chosen mode — with controlled variability
-- Explore (entropy↑): generate different classes of moves (reframe, change constraint, change operator order, change measurement, cheap probe).  
-- Exploit (MI↑ via tether \(\tau\)): generate a small set of tether-tight candidates that express \(Y\) and are ready to test/implement.  
+- **Explore (entropy↑):** generate different *classes* of options (reframe, change a constraint, change operator order, change measurement, run a cheap probe).
+- **Exploit (MI↑ via tether \( \tau \)):** generate a small set of tether-tight candidates that clearly express \( Y \) and are ready to test/implement.
+
 Rule: vary one or two things at a time so you can learn what caused what.
 
----
-
 ## 10) Infer (propagate constraints, prune, predict)
-Before choosing a test, do one quick inference pass:  
-- “Given this map, what must be true?”  
-- “What does this rule out?”  
-- “What would I expect to observe if the hypothesis is right?”  
+Do one quick inference pass before testing:
+- “Given this map, what must be true?”
+- “What does this rule out?”
+- “What would I expect to observe if this hypothesis is right?”
 
 This is where relational structure becomes actionable.
 
----
+## 11) Select + run the next **best** discriminating test (right-sized to the rigour budget)
+Replace “smallest” with **best-for-purpose**:
 
-## 11) Select + run the next smallest discriminating test (EU + VoI)
-Pick the move that most efficiently  
-(a) creates value, or (b) reduces uncertainty enough to change the plan,  
-given cost (time, risk, cognitive load).
+Pick the test that most efficiently either  
+(a) creates value, or  
+(b) reduces uncertainty enough to change the plan,  
+given your **rigour budget** (time, risk, cost, cognitive load).
 
-Run it time-boxed, collect a simple signal, and flag noise (sleep debt, interruptions, stress spike, tool failure).
+- Sometimes the right test is a **10-minute probe**.
+- Sometimes it’s a **larger experiment** (e.g., a scientist’s study), because the stakes, uncertainty, or required rigour demands it.
+- Whatever the size, it should still be: **time-bounded, measurable, and decision-relevant**.
 
----
+Run it, collect a simple signal, and flag noise (sleep debt, interruptions, stress spike, tool failure).
 
-## 12) Update + route learning + lock transfer
-Update: Bayes/belief update + revise the map (variables, constraints, operators).  
+## 12) Update + route learning + lock far transfer
+**Update:** revise beliefs + revise the map (variables, constraints, operators).
 
-**Router:**  
-- Type-1 tuning: mismatch is explainable and re-entry works → improve efficiency/re-entry kinetics  
-- Type-2 restructure: “worse than expected” persists and re-entry fails → prioritise representation/operator change  
+**Router:**
+- **Type-1 tuning:** mismatch is explainable and re-entry works → improve efficiency/re-entry kinetics
+- **Type-2 restructure:** “worse than expected” persists and re-entry fails → prioritise representation/mindware change
 
-If an insight spike occurs, capture it immediately:  
-- Name the new relation/affordance (one sentence)  
-- Predict one consequence  
-- Run a micro-test  
-- Link to what should generalise (\(Y\))  
-- Store as a mini-operator (trigger → steps → check → failure mode)  
+If an insight spike occurs, capture it immediately:
+1) Name the new relation/affordance (one sentence)  
+2) Predict one consequence  
+3) Run a micro-test  
+4) Link to what should generalise \( Y \)  
+5) Store as mini-mindware: **trigger → steps → check → failure mode**
 
-**Spike ≠ transfer yet:** it becomes far transfer only after wrapper swap + one real-world cue-fired deployment.
+**Spike ≠ transfer yet.** It becomes *far transfer* only after:
+- **Wrapper swap + boundary conditions** (portability probes)
+- **Near-miss discrimination** (right move vs tempting wrong move)
+- **Real-world bridge:** one live deployment with an explicit retrieval cue
+- **Post-spike consolidation:** next session exploit-tilted stabilisation under mild variation
+- **Compile to Gc:** write the mindware clearly
+- **Redeploy under novelty:** apply in a new wrapper (Gf → Gc → Gf)
 
-Then lock far transfer (completion stack):  
-- Portability probes: wrapper swap + boundary conditions  
-- Near-miss discrimination: practise right move vs tempting wrong move  
-- Real-world bridge: one live deployment with an explicit retrieval cue  
-- Post-spike consolidation: next session = exploit-tilted stabilisation under mild variation  
-- Compile to \(G_c\): write the operator clearly  
-- Redeploy under novelty: apply in a new wrapper (\(G_f \rightarrow G_c \rightarrow G_f\))  
-- If portability fails: update \(Y_0 \rightarrow Y_1\) and loop again  
+If portability fails:
+- update tether \( Y_0 \rightarrow Y_1 \) and loop again.
 
 ---
 
