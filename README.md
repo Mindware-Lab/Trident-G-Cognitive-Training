@@ -384,26 +384,36 @@ given your **rigour budget** (time, risk, cost, cognitive load).
 Run it, collect a simple signal, and flag noise (sleep debt, interruptions, stress spike, tool failure).
 
 ## 12) Update + route learning + lock far transfer
+
 **Update:** revise beliefs + revise the map (variables, constraints, operators).
 
 **Router:**
-- **Type-1 tuning:** mismatch is explainable and re-entry works → improve efficiency/re-entry kinetics
-- **Type-2 restructure:** “worse than expected” persists and re-entry fails → prioritise representation/mindware change
+- **Type-1 tuning:** mismatch is explainable and re-entry works → improve efficiency / re-entry kinetics.
+- **Type-2 restructure:** “worse than expected” persists and re-entry fails → prioritise representation / mindware change.
 
-If an insight spike occurs, capture it immediately:
-1) Name the new relation/affordance (one sentence)  
-2) Predict one consequence  
-3) Run a micro-test  
-4) Link to what should generalise \( Y \)  
-5) Store as mini-mindware: **trigger → steps → check → failure mode**
+**Gist extraction + compression (mandatory output):**  
+Distil what you learned into a portable form *before you move on*.
+- **Gist (1 sentence):** the general rule/relationship you’ve learned  
+- **Trigger:** what cue should retrieve it  
+- **Steps (3–6):** what to do, in order  
+- **Self-check:** how you’ll know it worked  
+- **Near-miss:** the tempting wrong move to avoid  
+- **Boundary:** when it stops working / conditions where it fails  
+
+If an insight spike occurs, capture it immediately (full mindware card):
+- Name the new relation/affordance (one sentence)  
+- Predict one consequence  
+- Run a micro-test  
+- Link to what should generalise (Y)  
+- Store as **mini-mindware:** trigger → steps → check → failure mode (+ near-miss + boundary)
 
 **Spike ≠ transfer yet.** It becomes *far transfer* only after:
-- **Wrapper swap + boundary conditions** (portability probes)
-- **Near-miss discrimination** (right move vs tempting wrong move)
-- **Real-world bridge:** one live deployment with an explicit retrieval cue
-- **Post-spike consolidation:** next session exploit-tilted stabilisation under mild variation
-- **Compile to Gc:** write the mindware clearly
-- **Redeploy under novelty:** apply in a new wrapper (Gf → Gc → Gf)
+- **Portability probes:** wrapper swap + boundary conditions  
+- **Near-miss discrimination:** practise right move vs tempting wrong move  
+- **Real-world bridge:** one live deployment with an explicit retrieval cue  
+- **Post-spike consolidation:** next session exploit-tilted stabilisation under mild variation  
+- **Compile to Gc:** write the mindware clearly  
+- **Redeploy under novelty:** apply in a new wrapper (Gf → Gc → Gf)  
 
 If portability fails:
 - update tether \( Y_0 \rightarrow Y_1 \) and loop again.
@@ -414,7 +424,6 @@ If portability fails:
 When you see persistent “worse than expected” mismatch plus repeated failure to re-enter the corridor, stop grinding and prioritise representation/operator change (Steps 4–10), not more effort.
 ---
 
-```markdown
 ## Critical importance of relational processing
 
 “Seeing the relations under the surface” is how you define the *right* problem space, and it is one of the main protections against **thin automation** (wrapper-locked learning).
